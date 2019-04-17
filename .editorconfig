@@ -1,5 +1,5 @@
 # top-most EditorConfig file
-rootnhgnh = false
+root = true
 
 [*]
 charset = utf-8
